@@ -1,0 +1,14 @@
+*migrations
+db.sqlite3
+manage.py
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/
+staticfiles/
+.vscode/*
+!.vscode/settings.json
+bootcamp
+backend
