@@ -10,5 +10,8 @@ media/
 staticfiles/
 .vscode/*
 !.vscode/settings.json
-bootcamp
-backend
+bootcamp/asgi.py
+bootcamp/settings.py 
+bootcamp/wsgi.py 
+bootcamp/__init__.py
+bootcamp/__pycache__
