@@ -15,3 +15,4 @@ bootcamp/settings.py
 bootcamp/wsgi.py 
 bootcamp/__init__.py
 bootcamp/__pycache__
+backend/__init__.py
